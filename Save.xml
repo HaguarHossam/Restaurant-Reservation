@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tables>
+    <table>
+        <number>6</number>
+        <number_of_seats>7</number_of_seats>
+        <smoking>true</smoking>
+        <time_of_reservation>11am</time_of_reservation>
+    </table>
+</tables>
